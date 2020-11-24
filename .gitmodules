@@ -1,0 +1,3 @@
+[submodule "EldritchEngine/vendor/spdlog"]
+	path = EldritchEngine/vendor/spdlog
+	url = https://github.com/gabime/spdlog
